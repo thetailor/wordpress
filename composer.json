@@ -27,6 +27,7 @@
     "johnpbloch/wordpress-core-installer": "^1.0",
     "johnpbloch/wordpress-core": "dev-master",
     "vlucas/phpdotenv": "^2.4",
-    "mrclay/minify": "^3.0.1"
+    "mrclay/minify": "^3.0.1",
+    "wp-cli/wp-cli": "^1.2.1"
   }
 }
